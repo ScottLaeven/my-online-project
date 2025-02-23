@@ -1,0 +1,57 @@
+body {
+    background-color: #f4f4f4;
+    color: #333;
+    line-height: 1.6;
+    text-align: center;
+}
+
+header {
+    background-color: #da251d;
+    color: white;
+    padding: 20px;
+}
+
+h1 {
+    font-size: 2em;
+}
+
+h2 {
+    color: #da251d;
+    margin-top: 20px;
+}
+
+img {
+    width: 300px;
+    border-radius: 10px;
+    margin-top: 10px;
+}
+
+iframe {
+    margin-top: 10px;
+}
+
+footer {
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+    height: 75px;
+    margin-top: 20px;
+    padding: 10px;
+    background: #222;
+    color: white;
+    
+}
+
+.zuydlogo {
+ position: absolute;  
+    top: 20px;  
+    left: 20px; 
+    width: 100px; 
+    height: auto;
+    width: device-width, initial-scale=1.0"
+}
+
+.video1 {
+    height: 300px;
+    width: 50%; 
+}
